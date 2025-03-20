@@ -2,6 +2,8 @@
 Entry point script for the LangGraph Demo.
 """
 
+import utils.transport
+import utils.session
 from src.workflow import run_agent_workflow
 
 if __name__ == "__main__":

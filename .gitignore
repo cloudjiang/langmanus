@@ -12,6 +12,7 @@ agent_history.gif
 .venv
 
 # Environment variables
-.env
 
 .idea/
+config.bat
+node_modules
